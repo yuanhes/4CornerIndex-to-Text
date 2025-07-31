@@ -1,0 +1,6 @@
+beautifulsoup4==4.12.3
+fastapi==0.115.6
+fpdf==1.7.2
+fpdf2==2.5.7
+reportlab==4.2.5
+uvicorn==0.16.0

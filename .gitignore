@@ -14,3 +14,4 @@ pi_calculation/
 backup/
 favicon/
 temp/
+.pytest_cache/
