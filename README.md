@@ -40,6 +40,6 @@ I turned it into an app for translating input number as 4-corner indexes to Chin
 - 四角号码检字表（勘误版）.zip 来源：http://bbs.unispim.com/forum.php?mod=viewthread&tid=31674
 - Pi digits source: https://www.angio.net/pi/digits.html
   > "50 million digits (compressed, special): You can download 50 million from the Pi searcher [here](https://www.angio.net/pi/pi50.4.bin). These digits are packed together two per byte, so you'll have to download, compile, and use [this program](https://www.angio.net/pi/printpi.c) to print them. Geeks only, sorry."
-- Found a program [y-cruncher](http://www.numberworld.org/y-cruncher) for computing large number of digits of irrational constants, under studying how to use it.
+- A program can be used for computing large number of digits of irrational constants: [y-cruncher](http://www.numberworld.org/y-cruncher) 
 - Wikipedia page for 4-corner method:  [Four-corner method - Wikipedia](https://en.wikipedia.org/wiki/Four-corner_method)
 - Method for handling the rendering issue of Chinese charactes of different fonts (character sets): [xetex - Vertical Chinese text that contains characters in a "CJK fallback family font" - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/110588/vertical-chinese-text-that-contains-characters-in-a-cjk-fallback-family-font)
